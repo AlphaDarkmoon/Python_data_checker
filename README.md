@@ -4,6 +4,7 @@
 
 check Data consumption using python
 
+A small black bar at top left corner will show every data sent and received.
 
 ***
 
