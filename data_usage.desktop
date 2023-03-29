@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=MyApp
+Comment=Show data Usage
+Exec=/path/to/python /path/to/myapp.py
+Icon=/path/to/icon.png
+Categories=Utility;
+
+
